@@ -1,0 +1,14 @@
+{
+  "moi_phong_van": {
+    "subject": "[{cong_ty}] Thư mời phỏng vấn vị trí {vi_tri}",
+    "body": "Chào {ten},\n\nCảm ơn bạn đã quan tâm và ứng tuyển vị trí {vi_tri} tại {cong_ty}.\n\nSau khi xem xét hồ sơ, chúng tôi trân trọng mời bạn tham gia vòng phỏng vấn. Bộ phận tuyển dụng sẽ liên hệ để thống nhất thời gian và hình thức phỏng vấn trong thời gian sớm nhất. Bạn vui lòng phản hồi email này để xác nhận.\n\nTrân trọng,\n{nguoi_gui}\n{cong_ty}"
+  },
+  "tu_choi": {
+    "subject": "[{cong_ty}] Thông báo kết quả ứng tuyển vị trí {vi_tri}",
+    "body": "Chào {ten},\n\nCảm ơn bạn đã dành thời gian ứng tuyển vị trí {vi_tri} tại {cong_ty}.\n\nSau khi cân nhắc kỹ, chúng tôi rất tiếc phải thông báo rằng hồ sơ của bạn chưa phù hợp với yêu cầu của vị trí ở thời điểm hiện tại. Chúng tôi sẽ lưu hồ sơ và liên hệ khi có cơ hội phù hợp hơn.\n\nChúc bạn nhiều thành công.\n\nTrân trọng,\n{nguoi_gui}\n{cong_ty}"
+  },
+  "xac_nhan": {
+    "subject": "[{cong_ty}] Xác nhận đã nhận hồ sơ ứng tuyển vị trí {vi_tri}",
+    "body": "Chào {ten},\n\n{cong_ty} đã nhận được hồ sơ ứng tuyển vị trí {vi_tri} của bạn. Hồ sơ sẽ được xem xét và chúng tôi sẽ thông báo kết quả qua email này.\n\nĐây là thư tự động, bạn không cần trả lời.\n\nTrân trọng,\n{nguoi_gui}\n{cong_ty}"
+  }
+}

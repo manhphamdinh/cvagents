@@ -1,0 +1,39 @@
+PHAN NGỌC MAI
+Lập trình viên .NET
+markpham25@gmail.com | 0847 296 153 | Phường Tân Định, TP. Hồ Chí Minh
+
+MỤC TIÊU NGHỀ NGHIỆP
+Lập trình viên backend với 2 năm kinh nghiệm phát triển ứng dụng doanh nghiệp bằng C#, .NET Core và SQL Server. Tôi chú trọng viết mã sạch theo OOP, SOLID và Design Patterns, thiết kế RESTful API rõ ràng, dễ mở rộng. Mục tiêu của tôi là trở thành lập trình viên backend vững chuyên môn và đóng góp vào các sản phẩm có ích cho nhiều người dùng.
+
+KINH NGHIỆM LÀM VIỆC
+Công ty Cổ phần Giải pháp Nhân sự Việt Tín 10/2024 - nay
+.NET Developer
+• Phát triển phân hệ chấm công và tính lương cho phần mềm quản trị nhân sự phục vụ hơn 300 doanh nghiệp, sử dụng C#, ASP.NET Core 8 và Entity Framework Core.
+• Xây dựng các RESTful API cho ứng dụng di động chấm công bằng GPS và nhận diện khuôn mặt; viết tài liệu API bằng Swagger.
+• Viết Stored Procedure tính lương trên SQL Server, xử lý bảng lương 15.000 nhân viên trong chưa đến 2 phút.
+• Sử dụng Git theo Git Flow, tạo Pull Request và tham gia Code Review chéo trong nhóm 6 người.
+• Phối hợp với QA tái hiện và xử lý lỗi trên môi trường Testing và Production; viết hướng dẫn xử lý sự cố cho đội vận hành.
+• Đóng gói dịch vụ bằng Docker phục vụ môi trường kiểm thử tự động.
+Công ty TNHH Phần mềm Hưng Thịnh 11/2023 - 09/2024
+Thực tập sinh, sau đó là Fresher .NET
+• Tham gia bảo trì hệ thống quản lý bán hàng viết bằng ASP.NET MVC và nâng cấp dần lên .NET Core.
+• Viết các câu lệnh SQL báo cáo tồn kho và doanh thu theo yêu cầu của khách hàng.
+
+DỰ ÁN
+Ứng dụng đặt lịch phòng họp nội bộ 2025
+• C#, ASP.NET Core Web API, SQL Server, SignalR; cập nhật lịch theo thời gian thực cho 400 nhân viên.
+
+HỌC VẤN
+Học viện Công nghệ Bưu chính Viễn thông - cơ sở TP.HCM 2019 - 2024
+• Kỹ sư Công nghệ thông tin, GPA 3.05/4.0
+
+KỸ NĂNG
+• Ngôn ngữ: C#, SQL, TypeScript
+• Nền tảng: .NET Core, ASP.NET Core, Entity Framework Core, SignalR
+• Cơ sở dữ liệu: SQL Server, PostgreSQL
+• Công cụ: Git, Docker, Visual Studio, Postman
+• Phương pháp: OOP, SOLID, Design Patterns, Clean Code, Agile/Scrum
+• Tiếng Anh: TOEIC 700, đọc hiểu tài liệu kỹ thuật tốt
+
+CHỨNG CHỈ
+• Foundational C# with Microsoft (freeCodeCamp), 2024

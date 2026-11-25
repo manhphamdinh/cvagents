@@ -1,0 +1,21 @@
+BÙI NGỌC ANH
+Mobile Developer (Flutter)
+bui.ngoc.anh@example.com | 0977 444 555 | Quận 10, TP. Hồ Chí Minh
+
+GIỚI THIỆU
+Lập trình viên di động 1 năm kinh nghiệm phát triển ứng dụng đa nền tảng bằng Flutter.
+
+KINH NGHIỆM
+Công ty Cổ phần Công nghệ Ánh Dương 10/2024 - nay
+Flutter Developer
+• Phát triển ứng dụng đặt lịch khám bệnh trên Android và iOS bằng Flutter, Dart, quản lý trạng thái bằng Bloc.
+• Tích hợp RESTful API, Firebase Cloud Messaging và thanh toán VNPay.
+• Phát hành ứng dụng lên Google Play và App Store.
+
+HỌC VẤN
+Trường Đại học Sư phạm Kỹ thuật TP.HCM 2020 - 2024
+• Kỹ sư Công nghệ thông tin
+
+KỸ NĂNG
+• Flutter, Dart, Firebase, Git, Figma
+• Tiếng Anh: đọc hiểu tài liệu kỹ thuật

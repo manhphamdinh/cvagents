@@ -1,0 +1,46 @@
+NGUYỄN THU HÀ
+Python Backend Developer (FastAPI)
+markpham25@gmail.com | 0938 205 614 | Phường Cầu Giấy, Hà Nội | github.com/nguyenthuha-py
+
+GIỚI THIỆU BẢN THÂN
+Lập trình viên backend với 3 năm kinh nghiệm phát triển dịch vụ web bằng Python và FastAPI, làm việc chủ yếu với PostgreSQL. Tôi quen thuộc với việc thiết kế API bất đồng bộ, tối ưu truy vấn cơ sở dữ liệu và đóng gói dịch vụ bằng Docker, Kubernetes. Tôi đang tìm một vị trí backend nơi có thể tiếp tục xây dựng và tối ưu các dịch vụ web có tải lớn.
+
+KINH NGHIỆM LÀM VIỆC
+Công ty Cổ phần Công nghệ Giáo dục Ánh Dương 08/2024 - nay
+Backend Developer
+• Phát triển các dịch vụ web cho nền tảng học trực tuyến khoảng 200.000 học viên bằng Python 3.12 và FastAPI, theo kiến trúc microservices.
+• Thiết kế lược đồ PostgreSQL cho module khoá học và bài kiểm tra; dùng SQLAlchemy 2 và Alembic để quản lý migration.
+• Tối ưu các API chậm bằng chỉ mục, truy vấn phân trang theo con trỏ và bộ nhớ đệm Redis, giảm thời gian phản hồi trung bình từ 850 ms xuống 160 ms.
+• Xây dựng hàng đợi xử lý nền bằng Celery để chấm bài tự động và gửi thông báo.
+• Đóng gói dịch vụ bằng Docker, triển khai lên Kubernetes với Helm; thiết lập CI/CD trên GitLab.
+• Viết test bằng pytest, độ phủ trên 80%; tham gia review code hằng ngày.
+Công ty TNHH Phần mềm Sông Hồng 07/2023 - 07/2024
+Python Developer
+• Xây dựng API quản lý hợp đồng cho khách hàng bảo hiểm bằng FastAPI và PostgreSQL.
+• Viết các script đồng bộ dữ liệu từ hệ thống cũ, xử lý khoảng 2 triệu bản ghi.
+• Tích hợp xác thực OAuth2 và phân quyền theo vai trò cho các API nội bộ.
+Thực tập sinh Backend - Công ty Cổ phần Số hoá Bắc Việt 01/2023 - 06/2023
+• Viết API báo cáo bằng Python, tham gia viết tài liệu OpenAPI.
+
+DỰ ÁN TIÊU BIỂU
+Dịch vụ chấm bài trắc nghiệm trực tuyến 2025
+• Công nghệ: Python, FastAPI, PostgreSQL, Redis, Celery, Docker, Kubernetes.
+• Chịu tải 1.500 yêu cầu mỗi giây trong kỳ thi cuối kỳ, không có sự cố gián đoạn.
+Hệ thống thông báo đa kênh 2024
+• Xây dựng dịch vụ gửi email, SMS và thông báo đẩy bằng FastAPI và hàng đợi RabbitMQ.
+
+HỌC VẤN
+Trường Đại học Bách khoa Hà Nội 2019 - 2023
+• Cử nhân Công nghệ thông tin, GPA 3.35/4.0
+• Đồ án tốt nghiệp: Hệ thống gợi ý khoá học dựa trên lịch sử học tập.
+
+KỸ NĂNG
+• Ngôn ngữ: Python, SQL, Bash
+• Framework: FastAPI, SQLAlchemy, Pydantic, Celery, pytest
+• Cơ sở dữ liệu: PostgreSQL, Redis, MongoDB
+• Hạ tầng: Docker, Kubernetes, Linux, Nginx, CI/CD
+• Công cụ: Git, Postman, Grafana
+• Tiếng Anh: IELTS 6.5
+
+HOẠT ĐỘNG
+• Diễn giả tại buổi chia sẻ "FastAPI trong môi trường production" của cộng đồng Python Hà Nội, 2025.

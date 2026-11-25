@@ -1,0 +1,26 @@
+LÊ THỊ THU TRANG
+Java Backend Developer
+le.thu.trang@example.com | 0987 654 321 | TP. Thủ Đức, TP. Hồ Chí Minh
+
+GIỚI THIỆU
+Lập trình viên Java với 1,5 năm kinh nghiệm xây dựng microservices cho thương mại điện tử. Thành thạo Spring Boot, có kinh nghiệm thiết kế API và tối ưu cơ sở dữ liệu.
+
+KINH NGHIỆM
+Công ty TNHH Thương mại Điện tử Hoa Sen 03/2025 - nay
+Java Developer
+• Phát triển RESTful API cho hệ thống đơn hàng bằng Spring Boot, Spring Data JPA và MySQL.
+• Tách module thanh toán thành microservice, giao tiếp qua Kafka.
+• Viết test bằng JUnit 5 và Mockito; quản lý mã nguồn bằng Git, quy trình Scrum.
+• Triển khai dịch vụ bằng Docker và Kubernetes.
+
+DỰ ÁN
+Hệ thống đặt vé xe khách 09/2024 - 12/2024
+• Thiết kế cơ sở dữ liệu PostgreSQL, xây dựng API đặt vé, xác thực JWT.
+
+HỌC VẤN
+Trường Đại học Bách khoa - ĐHQG TP.HCM 2020 - 2024
+• Kỹ sư Khoa học máy tính, GPA 3.0/4.0
+
+KỸ NĂNG
+• Java, Spring Boot, Hibernate, MySQL, PostgreSQL, Kafka, Docker, Git
+• Tiếng Anh: IELTS 6.0

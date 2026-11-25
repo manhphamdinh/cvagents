@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.egg-info/
+
+# Mô hình tinh chỉnh (~2,3 GB mỗi mô hình), lưu riêng
+models/
+
+# Dữ liệu sinh ra khi chạy
+data/inbox/
+data/outbox/
+data/logs/
+data/processed/
+data/cv_demo_moi/trang_gia_lap_chay/
+
+# Bí mật
+.env
+*.key.json

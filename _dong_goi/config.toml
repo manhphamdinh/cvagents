@@ -1,0 +1,73 @@
+# Ngưỡng của khối trích xuất (mục 2.3.4). Giá trị khởi tạo, sẽ hiệu chỉnh bằng thực nghiệm ở Chương 3.
+[extractor]
+ocr_engine = "easyocr"  # easyocr | rapidocr | tesseract (xem README: RapidOCR không đọc được dấu tiếng Việt)
+tau_rho = 200        # mật độ chữ tối thiểu (ký tự chữ cái / trang), công thức (2.5)
+tau_la = 0.05        # tỷ lệ ký tự lạ tối đa
+tau_td = 0.60        # tỷ lệ từ có trong từ điển tối thiểu
+tau_ocr = 0.5        # ngưỡng độ tin cậy OCR, công thức (2.6)
+tau_skill = 90       # ngưỡng rapidfuzz cho kỹ năng, công thức (2.8)
+min_alias_fuzzy = 4  # bí danh ngắn hơn số ký tự này chỉ khớp chính xác
+two_col_gap = 0.25   # |mu1 - mu2| > gap * W
+two_col_min_blocks = 3
+completeness_min = 0.75   # phi < ngưỡng này thì cảnh báo THIEU_TRUONG
+confidence_min = 0.80     # kappa < ngưỡng này thì cảnh báo DO_TIN_CAY_THAP
+
+# Trọng số và ngưỡng của khối phân tích.
+[analysis]
+embed_model = "models/vn-embedding-cvjd"  # JD tiếng Anh
+embed_model_vi = "models/vn-embedding-cvjd-vi"  # JD tiếng Việt: tinh chỉnh trên bộ CV–JD dịch sang tiếng Việt (gốc: AITeamVN/Vietnamese_Embedding)
+max_seq_length = 256
+match_threshold = 0.60        # cosine tối thiểu để coi một yêu cầu dạng câu được đáp ứng (kỹ năng: khớp chính xác / bí danh)
+must_min = 0.75               # luật loại: đáp ứng dưới tỷ lệ này kỹ năng bắt buộc → Không đạt; thiếu một phần → tối đa Cần xem xét lại
+w_fulltext = 1.0               # tương đồng toàn văn CV–JD. Sáu trọng số học trên tập kiểm định cặp âm cùng ngành (results/A_vi_kho và A_en_kho/trong_so_kb4.json, cả hai đều ra toàn văn 1,0: nhãn của bộ dữ liệu không dựa vào kỹ năng). Kỹ năng bắt buộc tác động qua luật must_min. Trước đó: 0.685/0.039/0.038/0.213/0.005/0.021 (cặp âm khác ngành), chọn tay 0.30/0.40/0.10/0.25/0.15/0.10
+w_must = 0.0                   # kỹ năng bắt buộc (vẫn tính và hiển thị, dùng cho luật loại must_min)
+w_nice = 0.0                   # kỹ năng ưu tiên
+w_semantic = 0.0               # tương đồng ngữ nghĩa trung bình theo từng yêu cầu
+w_experience = 0.0
+w_education = 0.0
+pass_threshold = 0.589        # điểm tổng tối thiểu để vào danh sách phù hợp: F1 lớn nhất của KB4 trên tập kiểm định tiếng Việt, cặp dương medium/strong + cặp âm CÙNG ngành (results/A_vi_kho, eval_matching.py --cap kho; bản tiếng Anh ra 0.596). Giá trị cũ 0.31 học với cặp âm khác ngành nên ~99% ứng viên cùng ngành đều qua
+review_margin = 0.05          # điểm trong [pass_threshold − margin, pass_threshold) → cần nhà tuyển dụng xem xét lại
+
+# Email_Agent. Tài khoản SMTP đặt bằng biến môi trường SMTP_USER, SMTP_PASSWORD (Gmail: dùng App Password).
+[email]
+smtp_host = "smtp.gmail.com"
+smtp_port = 587               # STARTTLS
+cong_ty = "Công ty ABC"
+nguoi_gui = "Bộ phận Tuyển dụng"
+outbox = "data/outbox"        # thư nháp .eml khi chưa cấu hình SMTP
+sent_log = "data/processed/email_log.json"  # thư đã gửi thật, để không gửi trùng khi đánh giá lại
+
+# CV_Collector_Agent. Tài khoản IMAP đặt bằng biến môi trường IMAP_USER, IMAP_PASSWORD (Gmail: App Password).
+[collector]
+inbox = "data/inbox"              # tệp CV đã nhận (tên = khoá nội dung) và sổ cái collector.db
+log_file = "data/logs/collector.log"
+dinh_dang = ["pdf", "docx", "png", "jpg"]   # định dạng CV_Extractor đọc được
+kich_thuoc_min_byte = 256       # nhỏ hơn: tệp rỗng hoặc tải lỗi
+kich_thuoc_max_mb = 10
+so_trang_max = 10                 # PDF dài hơn thường không phải CV
+anh_canh_min = 300                # cạnh ngắn tối thiểu của ảnh CV (px), nhỏ hơn thì OCR không đọc được
+zip_max_mb = 50                   # tổng dung lượng giải nén tối đa của .zip / .docx (chống zip bomb)
+zip_max_tep = 200
+simhash_max_bits = 3              # Hamming tối đa giữa hai simhash 64 bit để coi là gần trùng
+dhash_max_bits = 4                # như trên, cho hash ảnh
+min_tu_van_tay = 30               # văn bản ít từ hơn thì không lấy vân tay (dễ trùng nhầm)
+on_dinh_giay = 2.0                # bỏ qua tệp vừa sửa trong thư mục (có thể đang được chép vào)
+chu_ky_giay = 300                 # chu kỳ thu thập ở chế độ theo dõi
+luu_toi_da_ngay = 180             # hồ sơ cũ hơn bị xoá khi dọn dẹp (bảo vệ dữ liệu cá nhân)
+gui_xac_nhan = false              # gửi thư xác nhận đã nhận hồ sơ cho người nộp qua email / form
+imap_host = "imap.gmail.com"
+imap_port = 993
+imap_folder = "INBOX"
+crawl_delay = 1.0                 # giây giữa hai yêu cầu tới trang tuyển dụng
+crawl_max_pages = 50              # số trang HTML tối đa của một nguồn trong một lần chạy
+crawl_max_depth = 3               # số bước liên kết tối đa tính từ trang bắt đầu (0: chỉ trang bắt đầu)
+crawl_max_tep = 500               # số tệp CV tải tối đa của một nguồn trong một lần chạy
+crawl_retries = 2                 # số lần thử lại khi gặp 429, 5xx, hết thời gian chờ, mất kết nối
+crawl_backoff = 2.0               # giây chờ trước lần thử lại đầu, nhân đôi sau mỗi lần (theo Retry-After nếu có, tối đa 60)
+crawl_max_loi_lien_tiep = 5       # số lỗi tải liên tiếp thì dừng nguồn (trang có thể đã chặn crawler)
+nguong_thay_doi = 0.02            # tỷ lệ dòng chữ thay đổi tối thiểu so với phiên bản đã lưu để coi là trang thay đổi
+http_timeout = 20
+user_agent = "CVCollector/0.1 (+khoa luan NEU)"
+tim_kiem_api = "searxng"          # searxng | brave | google: API máy tìm kiếm của nguồn tìm kiếm CV (khoá: SEARCH_API_KEY)
+tim_kiem_url = "http://127.0.0.1:8888/search"   # địa chỉ SearXNG tự cài (chỉ dùng với searxng)
+tim_kiem_max_ket_qua = 20         # số kết quả tối đa của một truy vấn

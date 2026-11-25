@@ -1,0 +1,31 @@
+NGUYỄN HOÀNG NAM
+Backend Developer (.NET)
+nguyen.hoang.nam@example.com | 0912 345 678 | Quận 7, TP. Hồ Chí Minh
+
+MỤC TIÊU NGHỀ NGHIỆP
+Lập trình viên backend với 2 năm kinh nghiệm phát triển hệ thống tài chính trên nền tảng .NET. Mong muốn tham gia một công ty fintech để xây dựng các API hiệu năng cao, an toàn và dễ mở rộng.
+
+KINH NGHIỆM LÀM VIỆC
+Công ty Cổ phần Giải pháp Thanh toán Sao Việt 07/2024 - nay
+Backend Developer
+• Phát triển và bảo trì các RESTful API thanh toán bằng C#, ASP.NET Core 8 và Entity Framework Core, phục vụ khoảng 50.000 giao dịch mỗi ngày.
+• Thiết kế cơ sở dữ liệu SQL Server, viết Stored Procedure và tối ưu truy vấn, giảm 40% thời gian phản hồi của API đối soát.
+• Áp dụng Clean Architecture, SOLID và Repository Pattern; viết unit test bằng xUnit, độ phủ trên 70%.
+• Review code, quản lý mã nguồn bằng Git theo Git Flow, Pull Request.
+• Đóng gói dịch vụ bằng Docker, triển khai qua Azure DevOps CI/CD; theo dõi lỗi trên môi trường Production bằng Serilog và Seq.
+Công ty TNHH Phần mềm Minh An 01/2024 - 06/2024
+Thực tập sinh .NET
+• Xây dựng module quản lý kho bằng ASP.NET Core Web API và PostgreSQL.
+• Viết tài liệu API bằng Swagger/OpenAPI.
+
+HỌC VẤN
+Trường Đại học Khoa học Tự nhiên - ĐHQG TP.HCM 2020 - 2024
+• Cử nhân Kỹ thuật phần mềm, GPA 3.2/4.0
+
+KỸ NĂNG
+• Ngôn ngữ: C#, SQL, TypeScript
+• Framework: ASP.NET Core, Entity Framework Core, Dapper
+• Cơ sở dữ liệu: SQL Server, PostgreSQL, Redis
+• Công cụ: Git, Docker, Azure DevOps, Postman
+• Nguyên tắc: OOP, SOLID, Design Patterns, Clean Code
+• Tiếng Anh: TOEIC 750, đọc hiểu tốt tài liệu kỹ thuật

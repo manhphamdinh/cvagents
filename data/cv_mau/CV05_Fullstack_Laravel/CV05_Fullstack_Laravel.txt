@@ -1,0 +1,40 @@
+KINH NGHIỆM LÀM VIỆC
+CÔNG TY CÔNG NGHỆ BKSoft - BKACAD 6/2024 - 8/2024
+Thực tập
+Công việc
+• Tham gia phát triển Hệ thống quản lý DoWork với các chức năng tạo task công việc , cho phép assign các nhân viên, hệ thống dành riêng cho nội bộ toàn công ty
+• Phát triển và bảo trì bằng RESTful API bằng php-laravel cho các chức năng quản lý công việc, nhân viên, lead và xử lý nghiệp vụ
+• Thiết kế và tối ưu cơ sở dữ liệu MySQL, xây dựng cấu trúc dữ liệu và xử lý các thao tác CRUD
+• Đảm nhận cả công việc vị trí Fontend phát triển và tham gia chỉnh sửa giao diện , tích hợp api bằng Vue.js
+• Tham gia kiểm thử, sửa lỗi, tối ưu hiệu năng, triển khai ứng dụng bằng Docker, quản lý mã nguồn bằng Git, làm việc theo quy trình Agile/ Scrum
+Công nghệ sử dụng: Laravel, Vue.js, MySQL, Docker, Git
+Công Ty TNHH Công Nghệ SkyLab Việt Nam 9/2024 - 8/2026
+Fresher - Nhân viên Fullstack Developer
+Công việc :
+• Tham gia phát triển và bảo trì nhiều hệ thống của công ty, bao gồm TOGASHI(hệ thống quản lý sự kiện) , PET(mạng xã hội dành cho người yêu động vật) , KALIB(hệ thống đọc, thuê sách tài liệu y học) , GOT(hệ thống đọc truyện trả phí) , YOBO(hệ thống hỗ trợ giải quyết vấn đề ly hôn) , SAIKEN(hệ thống hỗ trợ giải quyết các khoản nợ)
+• Phát triển các RESTful API bằng Laravel, FastAPI , Golang xây dựng các chức năng nghiệp vụ, xác thực người dùng bằng Auth0, Keycloak phân quyền giữa các hệ thống
+• Phát triển giao diện người dùng và trang quản lý dữ liệu bằng React.js và Vue.js tích hợp API tối ưu trải nghiệm người dùng trên nhiều nền tảng và xử lý dữ liệu
+• Thiết kế và làm việc với MySQL và PostgreSQL, xâu dựng cấu trúc cơ sở dữ liệu, tối ưu truy vấn và xử lý các nghiệp vụ có lượng dữ liệu lớn
+• Xây dựng chatbot AI tích hợp Claude API, cho phép người dùng tương tác và nhận phản hồi bằng ngôn ngữ tự nhiên.
+• Triển khai và vận hành hệ thống bằng Docker, cấu hình môi trường và phát triển production , đồng thời tham gia xây dựng quy trình CI/CD vời Github Action
+Công nghệ sử dụng: Laravel , FastAPI , Vue.js , React.js , MySQL, PostgreSQL, Redis, Docker,Git
+
+KỸ NĂNG
+Nắm được các kiến thức cơ bản và biết các sử dụng HTML, CSS, JavaScript, ReactJs, Vue.js, Laravel,FastAPI
+có kiến thức và kinh nghiệm triển khai hệ thống trên VPS, xây dựng quy trình CI/CD ứng dụng với Docker,R2 Cloudflare, S3 AWS
+
+DỰ ÁN
+HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ 3/2023 - 6/2023
+• Phát triển hệ thống thương mại điện tử cho phép quản lý, đăng tải và kinh doanh sản phẩm
+• Thiết kế và xây dựng RESTful API triển khai xác thực người dùng và phân quyền
+• Phát triển và chỉnh sửa giao diện người dùng bằng Vue.js tích hợp API phía backend
+• Tích hợp và lưu trữ tệp trên Cloudflare R2 và xử lý các tác vụ bất đồng bộ bằng BullMQ
+• triển khai ứng dụng bằng Docker, tối ưu hiệu năng và khả năng mở rộng
+Công nghệ: Vue.js, Laravel, MySQL, BullMQ, Cloudflare R2, Docker, Redis
+HỆ THỐNG QUẢN LÝ NHÂN SỰ
+• Xây dựng hệ thống quản lý nhân sự với với các chức năng quản lý nhân viên, phân quyền, chấm công bằng khuôn mặt, thay đổi giờ làm việc
+• Tích hợp công cụ Face++ để phân tích khuôn mặt cho phép chấm công
+• Thiết kế giao diện trực quan, tối ưu trên cả pc lẫn smartphone
+• Triển khai hệ thống bằng Docker theo mô hình Client- Server
+• Deploy sử dụng render và vercel
+Công nghệ : Laravel, Vue.js , MySQL,HTML,CSS,Javasript,Docker

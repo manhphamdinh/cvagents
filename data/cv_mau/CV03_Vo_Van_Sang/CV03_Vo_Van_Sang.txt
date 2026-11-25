@@ -1,0 +1,41 @@
+VO VAN SANG
+Intern Developer
+Ho Chi Minh
+
+SUMMARY
+A 4th-year Software Engineering student with experience in developing Desktop Apps, Web Apps, and RESTful APIs. My short-term goal is to experience practical workflows as an Intern. In the next 3-6 months, I aim to become a full-time Developer and contribute directly to the company's products.
+
+EDUCATION
+Ton Duc Thang University 2022 - Present
+• Major: Information Technology - Software Engineering
+• GPA: 7.94/10
+
+PROJECTS
+E-Commerce Platform - Design Pattern - Clean Architecture 01/2026 - 04/2026
+Role: Tech Lead, Developer | Team size: 3 | Score: 7.9
+Technologies: C# .NET Core, Next.js, MongoDB, MediatR, JWT, Tailwind
+An e-commerce system following Clean Architecture to manage products, shopping carts, and orders.
+• Selected technologies, divided tasks, and conducted code reviews for 2 team members.
+• Built a RESTful API system, applying the CQRS pattern to separate Read and Write data flows.
+• Handled centralized authentication/authorization and data validation using MediatR Pipeline Behaviors.
+• Implemented MongoDB integration through the Repository Pattern and Unit of Work.
+MERN-Stack E-Commerce System | 09/2025 - 12/2025
+Role: Developer | Team size: 3 | Score: 9.0
+Technologies: MongoDB, Express.js, React.js, Node.js, Redux (Zustand/Redux Toolkit), JWT, Bootstrap
+• Designed and developed an end-to-end e-commerce system from Frontend to Backend using the MERN Stack.
+• Built RESTful APIs to manage Products, Categories, Orders, Carts, and Users. Integrated JWT authentication.
+• Developed a highly interactive user interface and managed state using Redux/Zustand.
+• Designed database schemas, interacted with MongoDB, and integrated basic caching.
+Faculty Football League Manager 04/2024 - 07/2024
+Role: Developer | Team size: 2 | Score: 7.6
+Technologies: C# .NET (WinForms), SQL Server, MVP, Repository Pattern
+A football tournament management application covering team registration, match scheduling, group stage point calculation, and knockout stage scheduling.
+• Applied the Model-View-Presenter (MVP) pattern to clearly separate the user interface and business logic.
+• Designed a centralized database for core entities: Teams, Players, Match Schedules, and Leaderboards.
+• Built core business logic: group stage division, knockout stage pairing, score updates, and automated leaderboard calculation.
+
+SKILLS
+Programming Languages: JavaScript, TypeScript, Python, C#, Java, HTML, CSS.
+Databases: SQL Server, MongoDB, MySQL.
+Tools: GitHub, Docker, Figma, Postman, Agent AI.
+Other Languages: English - Good at reading technical documents, basic communication.

@@ -1,0 +1,21 @@
+CV MẪU NHIỀU ĐỊNH DẠNG (dùng để thử thu thập / crawl)
+
+cv_mau/<CVxx>/  mỗi ứng viên một thư mục, CÙNG MỘT NỘI DUNG ở 6 dạng:
+  .txt        văn bản thuần
+  .pdf        PDF có lớp văn bản
+  _scan.pdf   PDF quét (chỉ có ảnh, cần OCR)
+  .docx       Word
+  .jpg/.png   ảnh chụp CV
+CV01–CV05: chép nguyên văn từ 5 ảnh CV thật (jpg/png là ảnh gốc).
+CV06–CV10: CV tổng hợp, nhân vật hư cấu, email @example.com.
+_ma_tao/: mã sinh lại (python make_cvs.py <thư mục ảnh gốc> <thư mục ra>).
+
+trang_gia_lap/  trang tuyển dụng giả lập, mỗi thư mục con là một tin tuyển dụng,
+mỗi ứng viên nộp MỘT tệp, định dạng khác nhau (pdf, pdf quét, docx, png, jpg);
+ung_vien.csv ghi họ tên / email / vị trí như form ứng tuyển.
+
+Chạy:
+  python scripts/mock_jobsite.py data/trang_gia_lap --port 8765
+  rồi nhập http://127.0.0.1:8765/ vào ô "Trang tuyển dụng" trên giao diện, bấm "Thu thập ngay".
+Thử kiểm tra trùng: chép thêm một bản khác định dạng của cùng CV (vd cv_mau/CV06.../CV06...pdf)
+vào một thư mục tin rồi thu thập lại -> hệ thống báo "Gần trùng"; chép y nguyên một tệp -> "Trùng".

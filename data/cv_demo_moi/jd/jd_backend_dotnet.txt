@@ -1,0 +1,25 @@
+Backend Developer (.NET)
+Yêu cầu:
+- Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Kỹ thuật phần mềm hoặc ngành liên quan
+- Thành thạo C# và .NET Core
+- Thành thạo thiết kế và phát triển RESTful API bảo mật, hiệu năng cao, dễ mở rộng
+- Có kinh nghiệm với SQL Server hoặc PostgreSQL, viết và tối ưu câu lệnh SQL, Stored Procedure
+- Nắm vững OOP, SOLID, Design Patterns và Clean Code
+- Sử dụng Git trong quy trình phát triển (Git Flow, Pull Request, Code Review)
+- Có khả năng phân tích, debug và xử lý lỗi trên môi trường Development, Testing và Production
+- Đọc hiểu tài liệu kỹ thuật bằng tiếng Anh
+- Tư duy logic, chủ động, kỹ năng giải quyết vấn đề và làm việc nhóm tốt
+Ưu tiên:
+- Có kinh nghiệm với Entity Framework Core
+- Biết Docker và triển khai, vận hành hệ thống
+Mô tả công việc:
+- Phát triển, nâng cấp và bảo trì hệ thống Backend bằng .NET/.NET Core
+- Thiết kế và xây dựng RESTful API; review code, refactor, tối ưu truy vấn cơ sở dữ liệu
+- Phối hợp với BA, QA, Frontend/UI-UX phân tích yêu cầu và triển khai chức năng
+- Viết và cập nhật tài liệu kỹ thuật, tài liệu API
+Quyền lợi:
+- Lương thoả thuận, thưởng theo quý, lương tháng 13
+- Bảo hiểm sức khỏe toàn diện, BHXH, khám sức khỏe định kỳ
+- Du lịch, teambuilding, đào tạo nâng cao chuyên môn
+Địa điểm: 35 Nguyễn Huệ, Phường Sài Gòn, TP. Hồ Chí Minh; thứ 2 – thứ 6, 08:00 – 17:00
+Hạn ứng tuyển: 19/11/2026

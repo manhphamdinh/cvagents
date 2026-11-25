@@ -1,0 +1,21 @@
+cv,jd,nhan,ghi_chu
+CV01_Tran_Xuan_Duc,jd_backend_dotnet.txt,khong,Fullstack sinh viên; có C# trong danh sách nhưng dự án dùng Spring / Django / Flask
+CV02_Kimono_Rental_Dev,jd_backend_dotnet.txt,dat,"C#, .NET 8, ASP.NET Core, SQL Server, PostgreSQL, Docker"
+CV03_Vo_Van_Sang,jd_backend_dotnet.txt,xem_xet,C# .NET Core + SQL Server + RESTful API nhưng chưa tốt nghiệp
+CV04_FrontEnd_Developer,jd_backend_dotnet.txt,khong,Front-end (Next.js / React)
+CV05_Fullstack_Laravel,jd_backend_dotnet.txt,khong,PHP Laravel / FastAPI / Vue
+CV06_Nguyen_Hoang_Nam,jd_backend_dotnet.txt,dat,Backend .NET 2 năm
+CV07_Le_Thi_Thu_Trang,jd_backend_dotnet.txt,khong,Java Spring Boot
+CV08_Pham_Minh_Khoa,jd_backend_dotnet.txt,khong,Data Analyst
+CV09_Do_Quang_Huy,jd_backend_dotnet.txt,khong,Tester
+CV10_Bui_Ngoc_Anh,jd_backend_dotnet.txt,khong,Flutter
+CV01_Tran_Xuan_Duc,sample_jd.txt,khong,"Có Python, Django, Flask nhưng không FastAPI, PostgreSQL; chưa có 2 năm kinh nghiệm"
+CV02_Kimono_Rental_Dev,sample_jd.txt,khong,C# / .NET
+CV03_Vo_Van_Sang,sample_jd.txt,khong,C# / .NET; có Python nhưng không FastAPI
+CV04_FrontEnd_Developer,sample_jd.txt,khong,Front-end
+CV05_Fullstack_Laravel,sample_jd.txt,dat,"FastAPI, PostgreSQL, Docker, 2 năm"
+CV06_Nguyen_Hoang_Nam,sample_jd.txt,khong,.NET
+CV07_Le_Thi_Thu_Trang,sample_jd.txt,khong,Java
+CV08_Pham_Minh_Khoa,sample_jd.txt,khong,"Data Analyst (Python, không backend)"
+CV09_Do_Quang_Huy,sample_jd.txt,khong,Tester
+CV10_Bui_Ngoc_Anh,sample_jd.txt,khong,Flutter

@@ -1,0 +1,11 @@
+Backend Developer
+Yêu cầu:
+- Tối thiểu 2 năm kinh nghiệm phát triển backend
+- Tốt nghiệp đại học chuyên ngành CNTT
+- Thành thạo Python và FastAPI
+- Có kinh nghiệm với PostgreSQL
+- Xây dựng và tối ưu dịch vụ web
+Ưu tiên:
+- Biết Docker, Kubernetes
+Quyền lợi:
+- Lương thưởng hấp dẫn

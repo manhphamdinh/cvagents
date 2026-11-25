@@ -1,0 +1,38 @@
+TRỊNH QUỐC VIỆT
+Lập trình viên Python (Django)
+quocviet.django@example.com | 0965 712 038 | Quận Hải Châu, Đà Nẵng
+
+MỤC TIÊU NGHỀ NGHIỆP
+Lập trình viên Python với 2,5 năm kinh nghiệm xây dựng website và hệ thống quản trị nội bộ bằng Django. Mong muốn chuyển sang môi trường sản phẩm để làm việc với các dịch vụ backend quy mô lớn hơn và học thêm về kiến trúc hệ thống.
+
+KINH NGHIỆM LÀM VIỆC
+Công ty TNHH Truyền thông Số Biển Xanh 04/2024 - nay
+Python Developer
+• Phát triển hệ thống quản lý nội dung cho 6 trang tin tức bằng Django và Django REST Framework.
+• Thiết kế cơ sở dữ liệu PostgreSQL cho bài viết, chuyên mục và quảng cáo; tối ưu ORM bằng select_related và prefetch_related.
+• Xây dựng chức năng tìm kiếm toàn văn bằng Elasticsearch, giảm thời gian tìm bài viết của biên tập viên.
+• Viết tác vụ định kỳ bằng Celery để tổng hợp lượt xem và xuất báo cáo hằng tuần.
+Công ty Cổ phần Phần mềm Sơn Trà 06/2023 - 03/2024
+Thực tập sinh, sau đó là Junior Developer
+• Làm website đặt phòng khách sạn bằng Django, giao diện dùng Bootstrap và jQuery.
+• Tích hợp cổng thanh toán VNPay và gửi email xác nhận đặt phòng.
+
+DỰ ÁN
+Hệ thống quản lý thư viện cho trường THPT 2024
+• Django, PostgreSQL, Docker; quản lý mượn trả sách cho khoảng 1.800 học sinh.
+Website bán đồ thủ công mỹ nghệ 2023
+• Django, MySQL, thanh toán trực tuyến và quản lý đơn hàng.
+
+HỌC VẤN
+Trường Đại học Bách khoa - Đại học Đà Nẵng 2019 - 2023
+• Kỹ sư Công nghệ thông tin, GPA 2.95/4.0
+
+KỸ NĂNG
+• Python, Django, Django REST Framework, Celery
+• PostgreSQL, MySQL, Elasticsearch
+• HTML, CSS, JavaScript, Bootstrap
+• Docker, Git, Linux
+• Tiếng Anh: đọc hiểu tài liệu kỹ thuật
+
+SỞ THÍCH
+• Bóng đá, nhiếp ảnh phong cảnh.

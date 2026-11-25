@@ -1,0 +1,21 @@
+ĐỖ QUANG HUY
+QA/QC Tester
+do.quang.huy@example.com | 0938 222 333 | Quận 3, TP. Hồ Chí Minh
+
+GIỚI THIỆU
+Kỹ sư kiểm thử phần mềm 2 năm kinh nghiệm kiểm thử thủ công và tự động cho ứng dụng web và di động.
+
+KINH NGHIỆM
+Công ty TNHH Giải pháp Phần mềm Đông Á 06/2024 - nay
+QA Engineer
+• Viết test case, test plan; kiểm thử chức năng, hồi quy và API bằng Postman.
+• Xây dựng bộ kiểm thử tự động bằng Selenium WebDriver và Java; tích hợp vào Jenkins.
+• Quản lý lỗi trên Jira, phối hợp với lập trình viên theo quy trình Agile/Scrum.
+
+HỌC VẤN
+Trường Đại học Công nghiệp TP.HCM 2019 - 2023
+• Cử nhân Công nghệ thông tin
+
+KỸ NĂNG
+• Kiểm thử thủ công, Selenium, Postman, SQL cơ bản, Jira, Git
+• Chứng chỉ ISTQB Foundation Level

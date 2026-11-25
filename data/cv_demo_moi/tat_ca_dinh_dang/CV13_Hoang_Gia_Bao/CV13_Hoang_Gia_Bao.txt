@@ -1,0 +1,42 @@
+HOANG GIA BAO
+Java Backend Engineer
+hoang.gia.bao@example.com | +84 976 330 412 | Thu Duc City, Ho Chi Minh City | linkedin.com/in/hoanggiabao
+
+SUMMARY
+Backend engineer with 4 years of experience building high-traffic services with Java and Spring Boot for e-commerce and banking clients. Comfortable designing RESTful APIs, modelling data in PostgreSQL and running services in containers. Looking for a senior backend role in a product company.
+
+WORK EXPERIENCE
+Lotus Commerce Technology JSC 05/2023 - present
+Senior Java Developer
+• Own the checkout and payment services of an online marketplace with about 1.2 million monthly active users, built with Java 21, Spring Boot 3 and Spring Data JPA.
+• Designed RESTful APIs for order placement and refunds; introduced idempotency keys that removed duplicate payments during peak sales.
+• Moved reporting queries from PostgreSQL to a read replica and tuned slow queries, cutting p95 latency of the order history page by 55%.
+• Built event-driven integrations with Apache Kafka between order, inventory and shipping services.
+• Mentor three junior developers; run code reviews on GitLab merge requests.
+Blue River Software Outsourcing 07/2021 - 04/2023
+Java Developer
+• Developed core banking back-office modules for a Japanese client using Spring Boot, Hibernate and Oracle Database.
+• Wrote unit and integration tests with JUnit 5, Mockito and Testcontainers.
+• Joined Scrum ceremonies, estimated user stories and wrote technical specifications in English.
+
+PROJECTS
+Flash Sale Engine 2024
+• Redis-based stock reservation that handled 8,000 orders per minute during a 12.12 campaign.
+• Stack: Java, Spring Boot, Redis, Kafka, PostgreSQL, Kubernetes.
+Loan Origination Portal 2022
+• Workflow engine for loan applications with Spring Boot and Camunda.
+
+EDUCATION
+Ho Chi Minh City University of Technology 2017 - 2021
+• Bachelor of Engineering in Computer Science, GPA 3.1/4.0
+
+SKILLS
+• Languages: Java, Kotlin, SQL
+• Frameworks: Spring Boot, Spring Security, Hibernate, JUnit
+• Databases: PostgreSQL, Oracle, Redis
+• DevOps: Docker, Kubernetes, Jenkins, Git
+• Practices: microservices, domain-driven design, clean code
+• English: IELTS 7.0
+
+CERTIFICATIONS
+• Oracle Certified Professional: Java SE 17 Developer, 2023

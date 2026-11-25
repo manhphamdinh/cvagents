@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cvagents"
+version = "0.1.0"
+description = "Hệ thống đa tác tử đánh giá hồ sơ ứng viên: CV Collector, CV Extractor, CV/JD Analysis và Email Agent"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2",
+    "rapidfuzz",
+]
+
+[project.optional-dependencies]
+docling = ["docling", "rapidocr", "onnxruntime"]
+embedding = ["sentence-transformers"]
+train = ["sentence-transformers", "datasets", "accelerate"]
+ui = ["streamlit", "pandas", "openpyxl"]
+drive = ["google-api-python-client", "google-auth"]
+eval = ["scikit-learn", "scipy", "pandas", "pypdfium2"]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+cvagents = ["resources/*.json", "resources/*.toml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

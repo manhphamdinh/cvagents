@@ -1,0 +1,53 @@
+LÊ HOÀNG PHÚC
+Backend Developer (.NET) - 3,5 năm kinh nghiệm
+markpham25@gmail.com | 0903 418 275 | Phường Bình Thạnh, TP. Hồ Chí Minh | github.com/lehoangphuc-dev
+
+MỤC TIÊU NGHỀ NGHIỆP
+Lập trình viên backend với hơn 3 năm kinh nghiệm phát triển hệ thống bằng C# và .NET Core cho lĩnh vực bán lẻ và logistics. Thế mạnh của tôi là thiết kế RESTful API bảo mật, hiệu năng cao, viết và tối ưu câu lệnh SQL trên SQL Server, áp dụng OOP, SOLID và Clean Code để mã nguồn dễ bảo trì. Trong 2 năm tới, tôi mong muốn đảm nhận vai trò backend chính trong một sản phẩm có lượng người dùng lớn và từng bước tham gia thiết kế kiến trúc hệ thống.
+
+KINH NGHIỆM LÀM VIỆC
+Công ty Cổ phần Công nghệ Bán lẻ Phương Nam 03/2024 - nay
+Backend Developer
+• Phát triển, nâng cấp và bảo trì hệ thống quản lý đơn hàng và tồn kho cho chuỗi 120 cửa hàng, viết bằng C#, ASP.NET Core 8 và Entity Framework Core.
+• Thiết kế và xây dựng hơn 60 RESTful API cho ứng dụng bán hàng và cổng đối tác; xác thực bằng JWT và OAuth2, giới hạn tần suất truy cập, ghi nhật ký kiểm toán.
+• Viết Stored Procedure và tối ưu truy vấn trên SQL Server (chỉ mục, kế hoạch thực thi), giảm thời gian tạo báo cáo doanh thu cuối ngày từ 9 phút xuống còn khoảng 1 phút.
+• Tách module khuyến mãi thành dịch vụ riêng, giao tiếp qua RabbitMQ; dùng Redis làm bộ nhớ đệm cho danh mục sản phẩm.
+• Review code và hướng dẫn 2 thành viên mới; quản lý mã nguồn bằng Git theo Git Flow, mọi thay đổi đều qua Pull Request và Code Review.
+• Phân tích, debug và xử lý sự cố trên các môi trường Development, Testing và Production dựa trên log tập trung (Serilog, Seq) và Application Insights.
+• Đóng gói dịch vụ bằng Docker, phối hợp với DevOps vận hành trên Azure; viết và cập nhật tài liệu API bằng Swagger.
+Công ty TNHH Giải pháp Phần mềm Đông Á 06/2022 - 02/2024
+Junior .NET Developer
+• Tham gia xây dựng hệ thống theo dõi vận đơn cho một công ty giao nhận, sử dụng ASP.NET Core Web API và SQL Server.
+• Viết các API tra cứu hành trình đơn hàng và tích hợp với API của các hãng vận chuyển đối tác.
+• Viết unit test bằng xUnit và Moq, nâng độ phủ kiểm thử của module tính cước từ 35% lên 72%.
+• Phối hợp với BA, QA và đội Frontend phân tích yêu cầu, ước lượng công việc trong các sprint hai tuần theo Scrum.
+
+DỰ ÁN TIÊU BIỂU
+Cổng tích hợp đối tác bán hàng (Partner Gateway) 2025
+• Vai trò: backend chính trong nhóm 5 người.
+• Công nghệ: C#, ASP.NET Core 8, Entity Framework Core, SQL Server, Redis, Docker.
+• Xây dựng API nhận đơn từ các sàn thương mại điện tử, xử lý khoảng 30.000 đơn mỗi ngày; áp dụng Repository Pattern, Unit of Work và Mediator Pattern.
+Hệ thống tính cước vận chuyển 2023
+• Thiết kế mô hình dữ liệu và các Stored Procedure tính cước theo vùng, trọng lượng và dịch vụ cộng thêm.
+• Rút thời gian tính cước cho một lô 10.000 vận đơn từ 40 giây xuống dưới 5 giây.
+
+HỌC VẤN
+Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM 2018 - 2022
+• Kỹ sư Kỹ thuật phần mềm, xếp loại Khá, GPA 3.12/4.0
+• Đồ án tốt nghiệp: Hệ thống đặt lịch khám bệnh trực tuyến bằng ASP.NET Core và SQL Server.
+
+KỸ NĂNG
+• Ngôn ngữ lập trình: C#, SQL, JavaScript
+• Framework và thư viện: .NET Core, ASP.NET Core Web API, Entity Framework Core, Dapper, xUnit
+• Cơ sở dữ liệu: SQL Server, PostgreSQL, Redis
+• Công cụ: Git, Docker, Azure DevOps, Postman, Swagger
+• Nguyên tắc: OOP, SOLID, Design Patterns, Clean Code, Clean Architecture
+• Tiếng Anh: TOEIC 785, đọc hiểu tốt tài liệu kỹ thuật bằng tiếng Anh
+• Kỹ năng mềm: tư duy logic, chủ động, giải quyết vấn đề, làm việc nhóm
+
+CHỨNG CHỈ
+• Microsoft Certified: Azure Developer Associate (AZ-204), 2025
+• Chứng chỉ tiếng Anh TOEIC 785, 2023
+
+SỞ THÍCH
+• Đọc sách về kiến trúc phần mềm, chạy bộ cuối tuần.

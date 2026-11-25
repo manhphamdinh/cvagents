@@ -1,0 +1,17 @@
+# Giao diện nhà tuyển dụng (scripts/recruiter_app.py). Streamlit đọc tệp này khi chạy từ thư mục gốc dự án.
+[theme]
+base = "light"
+primaryColor = "#1e3a8a"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#e5e7eb"
+textColor = "#000000"
+borderColor = "#4b5563"
+font = "sans serif"
+baseRadius = "medium"
+showWidgetBorder = true
+
+[client]
+toolbarMode = "viewer"   # ẩn nút Deploy và menu dành cho nhà phát triển
+
+[browser]
+gatherUsageStats = false

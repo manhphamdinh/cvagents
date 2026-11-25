@@ -1,0 +1,21 @@
+PHẠM MINH KHOA
+Data Analyst
+pham.minh.khoa@example.com | 0905 111 222 | Quận Bình Thạnh, TP. Hồ Chí Minh
+
+MỤC TIÊU
+Chuyên viên phân tích dữ liệu, mong muốn ứng dụng phân tích để hỗ trợ ra quyết định kinh doanh.
+
+KINH NGHIỆM
+Công ty CP Bán lẻ Phương Nam 08/2024 - nay
+Data Analyst
+• Xây dựng dashboard doanh thu và tồn kho bằng Power BI cho 120 cửa hàng.
+• Viết truy vấn SQL trên SQL Server để tổng hợp dữ liệu bán hàng hằng tuần.
+• Làm sạch và phân tích dữ liệu bằng Python (Pandas, NumPy), dự báo nhu cầu bằng mô hình hồi quy.
+
+HỌC VẤN
+Trường Đại học Kinh tế TP.HCM 2020 - 2024
+• Cử nhân Hệ thống thông tin quản lý, GPA 3.4/4.0
+
+KỸ NĂNG
+• SQL, Python, Pandas, Power BI, Excel nâng cao, thống kê
+• Tiếng Anh: TOEIC 800

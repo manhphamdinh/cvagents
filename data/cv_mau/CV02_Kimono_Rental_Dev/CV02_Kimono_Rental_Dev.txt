@@ -1,0 +1,32 @@
+INTRODUCTION
+With a strong foundation in software development and hands-on experience building web applications, I have worked on backend systems, RESTful APIs, and real-time applications using C#, Java, Go, and React. I enjoy designing scalable and maintainable solutions while collaborating across both frontend and backend development. I am eager to apply my technical skills and continue growing as a Full Stack Developer.
+
+SKILLS
+Technical Proficiency:
+• Programming languages: C#, java, TypeScript, JavaScript.
+• Frontend: React, HTML, CSS.
+• Databases: SQL server.
+• Tools: Git, docker
+• Principles: SOLID.
+Other skills:
+• English: Intermediate reading and writing for technical documentation.
+• Methodologies: Agile/Scrum.
+• Soft Skills: Strong communication, Time management, Attention to detail, Critical thinking, Problem-solving.
+
+EDUCATION
+HoChiMinh CityUniversityfor Natural Resources and Environment
+Information Technology 2022 - 2026
+
+PERSIONAL PROJECTS
+KIMONO RENTAL
+Description: Built and deployed a live full-stack kimono rental platform with a React frontend and C# backend, used by an initial client. Implemented booking workflows, pricing logic, authentication, real-time features, and admin operations. Designed a layered backend architecture with API, business logic, and data access layers. Set up CI/CD with GitHub Actions and deployed the application to a VPS using Docker.
+Technologies: Technologies: C#, .NET 8, ASP.NET Core, PostgreSQL, JWT Authentication, React, TypeScript, Docker, GitHub Actions, VPS Deployment
+Link: https://kyokimonorental.com/vi
+CHAT APPLICATION
+Description: Developed a real-time chat application based on a microservices architecture, supporting messaging and user interaction across separated services.
+Technologies: C#, ASP.NET Core, Sql Server, Microservices, RESTful API.
+Github: https://github.com
+COLLAB TEXT EDITOR
+Description: Developed a real-time collaborative text editor enabling multiple users to edit shared documents simultaneously. Designed a decoupled architecture with WebSocket-based synchronization, thread-safe state management, and persistent data storage.
+Technologies: Go, Gin, Gorilla WebSocket, RESTful API, React, TypeScript, Vite
+Github: https://github.com

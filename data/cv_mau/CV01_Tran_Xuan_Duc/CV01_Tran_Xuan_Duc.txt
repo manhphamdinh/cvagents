@@ -1,0 +1,44 @@
+TRAN XUAN DUC
+FULL-STACK DEVELOPER INTERNSHIP
+tranxuanduc.work@gmail.com | +84 0339610050 | https://github.com/tranxuanduc1 | Ho Chi Minh City
+
+SUMMARY
+Final-year Computer Science student with a strong foundation in full-stack web development. Experienced in building responsive front-end interfaces with ReactJS and robust back-end systems using Node.js or Django. Familiar with database design (MySQL, MongoDB), API integration, and deployment. Passionate about creating practical, user-centered applications and eager to contribute to real-world projects as a Full-Stack Developer.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, Java, Kotlin, C#, C++, JavaScript
+• Frameworks: Django, Flask, Spring MVC, ReactJS
+• Databases: MySQL, MongoDB
+• Tools: Git
+• Cloud: AWS, Firebase
+
+EDUCATION
+• Ho Chi Minh City Open University 2022–2026
+• Major in Computer Science
+• GPA: 3.46/4.0 – 8.23/10
+• Achievements: Awarded a scholarship for academic encouragement 5 times
+• Language: TOEIC 700 – August 2025
+
+CERTIFICATIONS
+• Samsung Innovation Campus - Big Data Course (08-2024)
+• AWS Academy Graduate - AWS Academy Cloud Foundations (01-2024)
+
+PROJECTS
+SANTHUONGMAI (E-COMMERCE PLATFORM) 03/2025–05/2025
+• Collaborated with a team to build a full-stack e-commerce platform for buyers and sellers.
+• Contributed to backend development using Spring MVC, Hibernate, Spring Security, MySQL, and integrated Cloudinary for image storage.
+• Assisted in developing the frontend with React.js and Redux, including authentication via Firebase OAuth and payment integration (PayPal).
+• Participated in implementing key features: product/shop management, shopping cart, search & filter, and product review system.
+Github: https://github.com/tranxuanduc1/SanThuongMai
+TROHAYHO (ROOM RENTAL FINDER APP) 12/2024–01/2025
+• Worked in a group to design a room rental application with React Native (mobile) and Django REST Framework (backend).
+• Contributed to building REST APIs, implementing authentication (OAuth2, Google Login), and integrating Google Maps API for location-based search.
+• Helped implement real-time chat with Firebase and role-based access control (Admin, Landlord, Tenant).
+• Supported development of the Admin dashboard for monitoring users and generating analytics
+Github: https://github.com/tranxuanduc1/TroHayHo
+QUANLYPHONGMACHTU (CLINIC MANAGEMENT SYSTEM) 10/2024–11/2024
+Collaborated in a 3-person team to develop a multi-role clinic management system using Flask.
+• Contributed to backend implementation with Flask, MySQL.
+• Assisted in building the frontend with Jinja2 templates, Bootstrap, and jQuery for responsive UI.
+• Implemented role-based features: patient registration, doctor diagnosis forms, nurse scheduling, cashier payment handling, and admin reporting.
+Github: https://github.com/tranxuanduc1/QuanLyPhongMachTu

@@ -1,0 +1,11 @@
+{
+  "thong_tin_ca_nhan": ["Thông tin cá nhân", "Thông tin liên hệ", "Liên hệ", "Contact", "Personal information", "Profile"],
+  "muc_tieu": ["Mục tiêu nghề nghiệp", "Mục tiêu", "Giới thiệu bản thân", "Objective", "Summary", "About me"],
+  "hoc_van": ["Học vấn", "Trình độ học vấn", "Quá trình học tập", "Education", "Academic background"],
+  "kinh_nghiem": ["Kinh nghiệm làm việc", "Kinh nghiệm", "Quá trình công tác", "Experience", "Work experience", "Professional experience", "Employment history"],
+  "du_an": ["Dự án tiêu biểu", "Dự án", "Projects", "Project experience"],
+  "ky_nang": ["Kỹ năng chuyên môn", "Kỹ năng", "Skills", "Technical skills"],
+  "chung_chi": ["Chứng chỉ", "Giải thưởng", "Certifications", "Certificates", "Awards"],
+  "hoat_dong": ["Hoạt động ngoại khoá", "Hoạt động", "Activities", "Volunteering"],
+  "khac": ["Sở thích", "Người tham chiếu", "Interests", "References"]
+}
